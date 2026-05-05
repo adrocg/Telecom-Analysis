@@ -7,7 +7,7 @@ Se utilizaron 3 fuentes diversas de datos/datasets: `plans.csv`, `users_latam.cs
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
+- `notebooks/S7-Project-ConnectaTel.ipynb`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
