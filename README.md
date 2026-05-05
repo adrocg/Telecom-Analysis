@@ -14,7 +14,7 @@ Se utilizaron 3 fuentes diversas de datos/datasets: `plans.csv`, `users_latam.cs
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 O:
 
@@ -31,7 +31,7 @@ O:
 
 El objetivo es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
--¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
--¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro?
--¿Cómo varía el uso según la edad y el tipo de plan contratado?
--¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
+- ¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
+- ¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro? 
+- ¿Cómo varía el uso según la edad y el tipo de plan contratado?
+- ¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
