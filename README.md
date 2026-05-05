@@ -14,7 +14,7 @@ Se utilizaron 3 fuentes diversas de datos/datasets: `plans.csv`, `users_latam.cs
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zETaRaTyY4wpVdr9cj41URbtcP1i66UO?usp=sharing)
 
 O:
 
